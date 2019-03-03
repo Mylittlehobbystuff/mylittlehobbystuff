@@ -21,7 +21,7 @@
                             <ul class="list-inline item-details">
                                 {% if post.client %}
                                     <li>Client:
-                                        <strong>{{ post.client }}
+                                     <strong><a>{{ post.client }}</a>
                                         </strong>
                                     </li>
                                 {% endif %}
@@ -33,7 +33,7 @@
                                 {% endif %}
                                 {% if post.category %}
                                     <li>Service:
-                                        <strong><a href="https://mylittlehobbystuff.github.io">{{ post.category }}</a>
+                                        <strong><a>{{ post.category }}</a>
                                         </strong>
                                     </li>
                                 {% endif %}
