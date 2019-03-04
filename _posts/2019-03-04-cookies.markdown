@@ -7,6 +7,6 @@ alt: image-alt
 project-date: March 2019
 client: Start Bootstrap
 category: Food collection
-description: Hmm, chocolate cookies! Don’t you get hungry with these studs in your ears? \ Ear studs €4,00 Studs + necklace set €10,00
+description: Hmm, chocolate cookies! Don’t you get hungry with these studs in your ears? \ Ear studs €4,00. \ Studs + necklace set €10,00
 
 ---
