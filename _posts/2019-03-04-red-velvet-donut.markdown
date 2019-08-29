@@ -7,6 +7,7 @@ alt: image-alt
 project-date: September 2018
 client: Start Bootstrap
 category: Web Development
-description: Red velvet donuts.  Don’t they look yummy? €5,00
+description: Red velvet donuts: €5,00
+             Donut worry, wear earrings!
 
 ---
