@@ -4,10 +4,7 @@ modal-id: 95
 date: 2019-03-04
 img: velvet-donut.jpg
 alt: image-alt
-project-date: September 2018
-client: Start Bootstrap
-category: Web Development
-description: Red velvet donuts: €5,00
-             Donut worry, wear earrings!
+category: Food collection
+description: Red velvet donuts: €5,00  Donut worry, wear earrings!
 
 ---
