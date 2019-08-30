@@ -1,0 +1,9 @@
+﻿---
+layout: default
+modal-id: 6
+date: 2019-08-30
+img: Avocado.jpg
+alt: image-alt
+category: Food collection
+description: €5,00 Holy guacamoly!
+---
