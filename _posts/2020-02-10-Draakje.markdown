@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 33
+date: 2020-02-10
+img: draakje.jpg
+alt: image-alt
+category: Fantasy collection
+description: €6,00 
+---

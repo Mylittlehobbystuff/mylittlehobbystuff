@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 63
+date: 2020-02-11
+img: wasbeer.jpg
+alt: image-alt
+category: Animal collection
+description: €6,00 
+---

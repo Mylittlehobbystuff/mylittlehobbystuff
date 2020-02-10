@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 39
+date: 2020-02-10
+img: lollys.png
+alt: image-alt
+category: Food collection
+description: €6,00 
+---
