@@ -1,9 +1,9 @@
 ---
 layout: default
-modal-id: 62
+modal-id: 75
 date: 2020-02-11
-img: raketjes1.png
+img: cabochon2.jpg
 alt: image-alt
-category: Food collection
+category: Art collection
 description: €6,00 
 ---
