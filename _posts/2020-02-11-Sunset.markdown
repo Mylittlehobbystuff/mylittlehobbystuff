@@ -4,6 +4,7 @@ modal-id: 58
 date: 2020-02-11
 img: sunset.png
 alt: image-alt
-category: Art collection
-description: €6,00 
+categories:
+    - "art"
+description: €6,00
 ---

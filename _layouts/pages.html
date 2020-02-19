@@ -3,8 +3,39 @@
     {% include head.html %}
     <body id="page-top" class="index">
     {% include nav.html %}
-<div id="content">
-    {{ content }}
-</div>
+    <br>
+           <section id="portfolio">
+               <div class="container">
+                   <div class="row">
+                       <div class="col-lg-12 text-center">
+                           <h2>{{page.content_page}}</h2>
+                           <hr class="star-primary">
+                       </div>
+                   </div>
+                   <div class="row">
+                       {% assign arts = site.posts %}
+                       {% for post in arts %}
+                            {% assign cat = post.categories %}
+                                {% if cat contains page.content_page%}
+                                   {% include render_cat.html %}
+                               {% endif %}
+                       {% endfor %}
+                   </div>
+               </div>
+           </section>
+           {% include about.html %}
+
+           {% include footer.html %}
+           {% assign arts = site.posts %}
+           {% for post in arts %}
+                {% assign cat = post.categories %}
+                    {% if cat contains page.content_page%}
+                        {% include render_cat_click.html %}
+
+                   {% endif %}
+           {% endfor %}
+
+              {% include js.html %}
+
     </body>
-</html>%  
+</html>
