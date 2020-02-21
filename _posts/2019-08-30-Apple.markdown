@@ -2,8 +2,9 @@
 layout: default
 modal-id: 16
 date: 2019-08-30
+title: Apple
 img: appel.png
 alt: image-alt
-category: Food collection
+category: food
 description: €6,00 
 ---
