@@ -2,8 +2,8 @@
 layout: default
 modal-id: 34
 date: 2020-02-10
-img: kikkertjes.png
+img: kikkertjes2.png
 alt: image-alt
-category: Animal collection
+category: animal 
 description: €6,00 
 ---
