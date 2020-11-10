@@ -1,9 +1,9 @@
 # Site settings
-title: mylittlehobbystuff
-email: mylittlehobbystuff@gmail.com
-url: https://mylittlehobbystuff.github.io
-description: "Mylittlehobbystuff is a blogwebsite for ordering personalised, handmade products of Fimo clay."
-keywords: "Fimo, Resin, Creative"
+title: Succulent crafts
+email: succulentcrafts@outlook.com
+url: https://succulentcrafts.github.io
+description: "Succulentcrafts is a website for ordering personalised, handmade products of Fimo clay."
+keywords: "Fimo, Fantasy, Creative"
 skills: "Jewelry - Gifts - And more"
 meta_author: Rianne
 
@@ -42,7 +42,7 @@ social:
   #- title: twitter
   #  url: http://twitter.com/jekyllrb
   - title: facebook
-    url: https://www.facebook.com/people/Rianne-Bianca/100014311179971
+    url: https://www.facebook.com/rianne.schiebaan
   #- title: stack-overflow
   #  url: http://stackoverflow.com/questions/tagged/jekyll
   #- title: bitbucket
@@ -50,7 +50,9 @@ social:
   #- title: github
   #  url: http://github.com/jekyll
   - title: instagram
-    url: https://www.instagram.com/my_little_hobbystuff/
+    url: https://www.instagram.com/succulent_crafts/
+  - title: Etsy
+    url: https://www.etsy.com/nl/people/q5rkeqm8bj1flks3
 # Postal address (add as many lines as necessary)
 address:
   - line: Tiel
